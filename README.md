@@ -1,0 +1,1 @@
+# altkom-animal-hotel-config-server
