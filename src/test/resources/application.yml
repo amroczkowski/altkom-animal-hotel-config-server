@@ -1,0 +1,12 @@
+eureka:
+  client:
+    enabled: false
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          clone-on-start: true
+          uri: https://github.com/amroczkowski/altkom-animal-hotel-configuration-docker.git

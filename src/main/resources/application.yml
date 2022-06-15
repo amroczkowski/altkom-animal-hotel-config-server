@@ -7,5 +7,5 @@ spring:
     config:
       server:
         git:
+          uri: https://github.com/amroczkowski/altkom-animal-hotel-configuration-docker
           clone-on-start: true
-          uri: https://github.com/amroczkowski/altkom-animal-hotel-configuration.git
